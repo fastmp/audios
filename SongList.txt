@@ -1,4 +1,5 @@
 {
 	"Flower Man": "https://raw.githubusercontent.com/fastmp/audios/refs/heads/main/Flower%20Man.txt",
-	"Victory Road": "https://raw.githubusercontent.com/fastmp/audios/refs/heads/main/Victory%20Road.txt"
+	"Victory Road": "https://raw.githubusercontent.com/fastmp/audios/refs/heads/main/Victory%20Road.txt",
+	"Yo Mama Theme": "https://raw.githubusercontent.com/fastmp/audios/refs/heads/main/Yo%20Mama%20Theme.txt"
 }
