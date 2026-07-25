@@ -1,0 +1,3 @@
+local customsongList = {
+	"Flower Man" = "https://raw.githubusercontent.com/fastmp/audios/refs/heads/main/Flower%20Man.txt"
+}
